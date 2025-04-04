@@ -1,0 +1,15 @@
+Tutorila Flow 1.0
+1. <a> Anchor Element = Indicates a hyperlink, this used to link another page.
+                        <a href="home.html"> Home</a>
+		        <a href="about.html">About</a>
+			<a href="https://www.youtube.com/SDPTSolutions">SPDT Solutions<a/>
+ <a> Anchor Element Attributes (common attributes used)
+     Attribute            Description
+     href	          Indicates the URL it will go to
+     target		  Indicates where the link will open
+          All attributes https://www.w3schools.com/tags/tag_a.asp
+
+2. Element Attributes = Provides additional information about the elements. Every element can have an attribute, some attributes are elements specific and cannot be applied to other elements, an element can also have multiple attributes.
+            <element attribute="value"> Content Here</element>
+
+3. Linking HTML Files

@@ -1,0 +1,3 @@
+HTML Paragraph - Displays a text on regular format
+
+<p>Paragraph here</p>

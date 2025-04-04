@@ -1,0 +1,9 @@
+File Paths
+
+            Direct level of file Paths
+    Value                       Description
+"name.png"                      The file is in the same folder
+"images/name.png"               The file is in the folder images in the current folder
+"/images/name.png"              The file is in the folder images at the root of the current web 
+"../name.png"                    The file is in the same folder one level up from the current folder
+Absolute Path                   The file's path is fully specified.
